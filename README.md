@@ -55,7 +55,7 @@ _Agregue un navbar, donde incluí en CSS un:_
 ##  
 
 
-![Vista previa del ejercicio](assets/img/realizado_por_kate.png)
+![Vista previa del ejercicio realizado](assets/img/realizado_por_kate.png)
 ️
 
 _Una vez, The New Yorker publicó una portada con un perro usando gafas y leyendo la revista... ¡al revés! Era una sátira sobre los lectores que fingen entender todo. 🐶📖 Un guiño elegante al snobismo cultural, con humor fino._
